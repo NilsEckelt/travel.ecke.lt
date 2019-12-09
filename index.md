@@ -4,3 +4,4 @@
 
 layout: home
 ---
+{% google_map src="_posts" %}

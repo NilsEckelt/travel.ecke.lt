@@ -32,7 +32,7 @@ plugins:
 
 maps:
   google:
-    api_key: AIzaSyAhr5jzgcP1eAWpS83MApO9g178yKgjiW8
+    api_key: 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

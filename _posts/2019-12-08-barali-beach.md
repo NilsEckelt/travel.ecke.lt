@@ -13,4 +13,6 @@ Erst Mama, dann Levi und dann ich. Abflug mit angeschlagenen Kind und krankem Pa
 
 Aber uns geht es gut. Zwar nicht gesund, aber in einem herrlichem Hotel am Strand von Koh Chang am Klong Prao.
 
+{% video /img/IMG_0412.mp4 320 %}
+
 {% google_map zoom="11" %}
